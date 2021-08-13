@@ -1,0 +1,35 @@
+.banner{
+    background: linear-gradient(lightblue, yellow);
+    height: 480px;
+}
+.banner img{
+    width: 38%;
+}
+.btn-all{
+    color: #fff;
+    background: linear-gradient(#e100e1ec, magenta);
+    
+}
+.cetagory .col .card div{
+    color: white;
+    height: 120px;
+}
+
+
+
+.cetagory .col:nth-child(1) .card{
+    background: yellow;
+}
+
+.cetagory .col:nth-child(2) .card{
+    background: #fa04e6;
+}
+
+.cetagory .col:nth-child(3) .card{
+    background: blue;
+}
+
+.contact-form{
+    background: violet;
+    height: 300px;
+}
